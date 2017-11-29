@@ -1,0 +1,79 @@
+body {
+    background: -webkit-linear-gradient(left, #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%);
+    padding: 0;
+    margin: 0;
+}
+table, th, td {
+    border: 1px solid black;
+}
+/*nav*/
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(to right, #b4ddb4 0%,#002400 0%,#005700 27%,#008a00 49%,#008a00 54%,#008a00 54%,#008a00 63%,#52b152 73%,#52b152 81%,#52b152 86%,#83c783 93%,#83c783 97%,#83c783 100%);
+    position: relative;
+
+}
+
+li {
+    float: left;
+    position: relative;
+}
+
+
+lia {
+    float: right;
+    position: relative;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: relative;
+}
+
+
+lia a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: relative;
+}
+
+li a:hover {
+    background-color: rgba(112, 122, 230, 0.68);
+    position: relative;
+    border-radius: 5px;
+}
+
+
+lia a:hover {
+    background-color: rgba(112, 122, 230, 0.68);
+    position: relative;
+    border-radius: 5px;
+}
+
+
+
+
+
+/*Einde*/
+
+
+
+h1{
+  font-size: 90px;
+  text-align: center;
+}
+h3 {
+  font-family: courier;
+}
